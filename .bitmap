@@ -9,5 +9,17 @@
  */
 
 {
+    "ui/button": {
+        "scope": "luciap.test",
+        "version": "0.0.1",
+        "mainFile": "index.js",
+        "rootDir": "test/ui/button"
+    },
+    "ui/button-text": {
+        "scope": "luciap.test",
+        "version": "0.0.1",
+        "mainFile": "index.js",
+        "rootDir": "test/ui/button-text"
+    },
     "$schema-version": "14.9.0"
 }

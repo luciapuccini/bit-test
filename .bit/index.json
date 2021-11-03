@@ -1,0 +1,37 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/button-text"
+      },
+      "isSymlink": true,
+      "hash": "1d774e7f1734eb1299a523f8ce19918a4a1615d8"
+    },
+    {
+      "id": {
+        "scope": "luciap.test",
+        "name": "ui/button-text"
+      },
+      "isSymlink": false,
+      "hash": "29d8dbeaea2aec487a7d1d2cecb0476c1fee2946"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/button"
+      },
+      "isSymlink": true,
+      "hash": "6e10f814d61b688ebc8b59fb617ad611ff01d70c"
+    },
+    {
+      "id": {
+        "scope": "luciap.test",
+        "name": "ui/button"
+      },
+      "isSymlink": false,
+      "hash": "4f5af931bad5aeb65d3e46b421635dc93c45436a"
+    }
+  ],
+  "lanes": []
+}
