@@ -1,0 +1,9 @@
+{
+    "name": "bit",
+    "remotes": {},
+    "version": "1.0.169",
+    "lanes": {
+        "current": "main",
+        "tracking": []
+    }
+}
